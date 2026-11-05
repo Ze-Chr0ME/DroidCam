@@ -1,0 +1,14 @@
+altgraph==0.17.5
+av==16.0.1
+cffi==2.1.1
+colorama==0.4.6
+cryptography==46.0.3
+packaging==26.3
+pefile==2023.2.7
+pillow==11.3.0
+pycparser==3.12
+pyinstaller==6.16.0
+pyinstaller-hooks-contrib==2026.9
+pywin32-ctypes==0.2.3
+qrcode==8.2
+setuptools==84.2.1

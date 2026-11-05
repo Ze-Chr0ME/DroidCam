@@ -1,0 +1,10 @@
+.venv/
+target/
+.tools/
+build/
+dist/
+__pycache__/
+*.pyc
+*.jks
+local.properties
+CameraBridge.spec
