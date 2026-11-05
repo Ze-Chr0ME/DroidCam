@@ -1,0 +1,5 @@
+Pillow==11.3.0
+cryptography==46.0.3
+qrcode==8.2
+pyinstaller==6.16.0
+av==16.0.1
